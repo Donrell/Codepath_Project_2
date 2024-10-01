@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
+https://submissions.us-east-1.linodeobjects.com/and101/jdSUEgmf.gif
 <img src='https://submissions.us-east-1.linodeobjects.com/and101/jdSUEgmf.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
